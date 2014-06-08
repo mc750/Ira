@@ -1,0 +1,76 @@
+{
+  "Annotations": [
+    {
+      "Title": "Gato Persa, Laika",
+	  "ImageName": "persian",
+      "Status": "Lost",
+      "Text": "Sumiu no dia 24/05. Criança doente. Informações, favor ligar 2345meia78",
+      "Latitude": -22.829298,
+      "Longitude": -47.074813
+	},
+				  {
+      "Title": "Cachorra peluda",
+	  "ImageName": "foundDog",
+      "Status": "Found",
+      "Text": "Encontrei essa belezinha sozinha na rua. Trouxe-a para casa e estou dando comida e água. Contato: 99837-2726",
+      "Latitude": -22.817925,
+      "Longitude": -47.076889
+				  },
+				  {
+      "Title": "Cachorro",
+	  "ImageName": "foundDog2",
+      "Status": "Found",
+      "Text": "Achei esse carinha sozinho, latindo na rua. Trouxe ele pra casa. Contato: 97839-2373",
+      "Latitude": -22.810212,
+      "Longitude": -47.076803
+				  },
+				  {
+      "Title": "Arara, Nina",
+	  "ImageName": "arara",
+      "Status": "Lost",
+      "Text": "A Nina sumiu no dia 31/02 e não temos mais notícias de seu paradeiro. Favor ligar para 92372-3273",
+      "Latitude": -22.823028,
+      "Longitude": -47.072082
+				  },
+				  {
+      "Title": "Cabra",
+	  "ImageName": "cs_goat",
+      "Status": "Found",
+      "Text": "Achei essa simpática cabra andando por Barão Geraldo. Contato: 91233-4343",
+      "Latitude": -22.822039,
+      "Longitude": -47.074829
+				  },
+				  {
+      "Title": "Calopsita",
+	  "ImageName": "calopsita",
+      "Status": "Lost",
+      "Text": "Saiu voando dia 23/12. Contato: 98757-8989",
+      "Latitude": -22.825125,
+      "Longitude": -47.070022
+				  },
+				  {
+      "Title": "Cachorro, Chouchou",
+	  "ImageName": "chouchou",
+      "Status": "Found",
+      "Text": "Achei essa fera na minha garagem aberta .Ligar para 92372-3273",
+      "Latitude": -22.816066,
+      "Longitude": -47.078048
+				  },
+				  {
+      "Title": "Iguana, Jefferson",
+	  "ImageName": "iguana",
+      "Status": "Lost",
+      "Text": "Perdi o Jefferson quando abri o portão. É fácil de reconhecer pelas costas vermelhas. Atende pelo nome. Favor ligar 92323-2323",
+      "Latitude": -22.826588,
+      "Longitude": -47.075859
+				  },
+				  {
+      "Title": "Cachorro",
+	  "ImageName": "lostDog",
+      "Status": "Found",
+      "Text": "Achei esse simpático cãozinho na Praça da Paz. Ligar 92232-1212",
+      "Latitude": -22.822277,
+      "Longitude": -47.067619
+    }
+  ]
+}

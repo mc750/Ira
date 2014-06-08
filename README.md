@@ -1,0 +1,1 @@
+Para rodar o app é necessário possuir o Xcode 5.1 ou versão mais recente. Após clonar o repositório, basta abrir o arquivo Radar_Animal.xcodeproj, selecionar como device simulado iPhone Retina (3.5-inch), pressionar Command + R e pronto :)

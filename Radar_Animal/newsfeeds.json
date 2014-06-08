@@ -1,0 +1,46 @@
+{
+  "NewsFeeds": [
+    {
+      "Title": "Gato Persa, Laika",
+      "Text": "Fugiu de residência localizada na Av. Romeu Tórtima em 05/06/2014.",
+      "ImageName": "persian",
+      "Status": "Lost"
+    },
+    {
+      "Title": "Cachorro Pitbull, Fofo",
+      "Text": "João Guilherme encontrou o pitbull do Kléber Pereira!",
+      "ImageName": "pitbull",
+      "Status": "Found"
+    },
+	{
+	  "Title": "Cachorro Labrador, Jason",
+	  "Text": "Flávio encontrou o labrador da Mitsy!",
+	  "ImageName": "labrador",
+	  "Status": "Found"
+	},
+ 	{
+ 	  "Title": "Papagaio, Louro",
+ 	  "Text": "Saiu voando da nossa rep perto da avenida 2 no dia 03/06/2014.",
+ 	  "ImageName": "papagaio",
+ 	  "Status": "Lost"
+ 	},
+ 	{
+	  "Title": "Chinchila, Gagau",
+	  "Text": "Gabriel encontrou a Chinchila do Fabricio!",
+	  "ImageName": "chinchila",
+	  "Status": "Found"
+	},
+	{
+	  "Title": "Cachorro Vira-Lata, Doug",
+	  "Text": "A coleira estourou e perdi meu lindinho enquanto andava com ele na Av. Brasil, no dia 01/06/2014.",
+	  "ImageName": "caoLindo",
+	  "Status": "Lost"
+	},
+	{
+	  "Title": "Cachorro Mutante, Rex",
+	  "Text": "O Rex fugiu da minha casa perto da Moraes Sales, no dia 31/05/2014.",
+ 	  "ImageName": "bombado",
+ 	  "Status": "Lost"
+  	}
+  ]
+}

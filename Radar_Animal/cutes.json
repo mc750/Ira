@@ -1,0 +1,49 @@
+{
+  "Cutes": [
+
+    
+    {
+      "ImageName": "cuteCats",
+      "Title": "Gatinhos danados!",
+    },
+    
+    {
+      "ImageName": "cuteDog",
+      "Title": "Ownn! Ele é muito fofo, né?!",
+    },
+    
+    {
+      "ImageName": "cuteDog2",
+      "Title": "Coisa mais fofa da mãe!",
+    },
+    
+    {
+      "ImageName": "cuteElephant",
+      "Title": "Não dá vontade de apertar?",
+    },
+	{
+	  "ImageName": "xicara",
+	  "Title": "Meu gatinho na xícara!",
+	},
+    
+    {
+      "ImageName": "cuteHamster",
+      "Title": "Ham adora mexer nas coisas!",
+    },
+    
+    {
+      "ImageName": "cutePets",
+      "Title": "Amizade não tem raça!",
+    },
+    
+    {
+      "ImageName": "cuteRabbit",
+      "Title": "Só aprontam essas graçinhas",
+    },
+    
+    {
+      "ImageName": "cuteTiger",
+      "Title": "Pequeno é tão fofo",
+    }
+  ]
+}

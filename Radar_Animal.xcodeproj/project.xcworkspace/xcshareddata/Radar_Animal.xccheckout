@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F1AAB290-5499-4D57-94E3-C20C55DE9313</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Radar_Animal</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4B65BEA8-55A1-4556-9480-C9FAD838EF76</key>
+		<string>ssh://github.com/gbuenoandrade/radar_animal.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Radar_Animal.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4B65BEA8-55A1-4556-9480-C9FAD838EF76</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/gbuenoandrade/radar_animal.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4B65BEA8-55A1-4556-9480-C9FAD838EF76</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4B65BEA8-55A1-4556-9480-C9FAD838EF76</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Radar_Animal</string>
+		</dict>
+	</array>
+</dict>
+</plist>
